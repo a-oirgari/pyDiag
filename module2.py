@@ -53,5 +53,5 @@ for etudiant in etudiants:
         dernier_etudiant = nom
 
 print(f"Meilleur etudiant : {meilleur_etudiant}")
-print(f"Moins bon etudiant : {dernier_etudiant}")
+print(f"dernier etudiant : {dernier_etudiant}")
 
